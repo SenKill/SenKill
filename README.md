@@ -2,10 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🎯 &nbsp; I’m focusing on IOS application development. 
 - 🔭 &nbsp; I’m currently working on [RecipeBook](https://github.com/SenKill/RecipeBook)
 - 🌱 &nbsp; I’m currently learning UIKit(programmatic approach)
 - 🤝 &nbsp; I’m looking for an IOS development internship or job. 
-- 🥅 &nbsp; 2022 Goals: Successfully run my own IOS app on AppStore
+- 🥅 &nbsp; 2022 Goals: Successfully run my own app on AppStore
 - ⚡  &nbsp; Fun fact: I love rock music genres and playing guitar🤘😎
 - 📫 &nbsp; How to reach me: Through [Gmail](mailto:serik1404500@gmail.com) and [Discord](https://discordapp.com/users/282506513304518656)
 
