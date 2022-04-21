@@ -8,7 +8,7 @@
 - 🤝 &nbsp; I’m looking for an IOS development internship or job. 
 - 🥅 &nbsp; 2022 Goals: Successfully run my own app on AppStore
 - ⚡  &nbsp; Fun fact: I love rock music genres and playing guitar🤘😎
-- 📫 &nbsp; How to reach me: Through [Gmail](mailto:serik1404500@gmail.com) and [Discord](https://discordapp.com/users/282506513304518656)
+- 📫 &nbsp; How to reach me: Through [Gmail](mailto:serik1404500@gmail.com) or [Discord](https://discordapp.com/users/282506513304518656)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
